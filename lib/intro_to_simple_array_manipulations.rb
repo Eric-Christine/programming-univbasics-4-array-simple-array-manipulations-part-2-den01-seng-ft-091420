@@ -15,5 +15,5 @@ end
 
 def using_flatten(array)
   array.flatten
-  puts array.flatten
+  p array.flatten
 end
