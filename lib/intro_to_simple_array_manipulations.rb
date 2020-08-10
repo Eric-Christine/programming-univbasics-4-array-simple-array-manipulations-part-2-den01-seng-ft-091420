@@ -17,3 +17,11 @@ def using_flatten(array)
   p array
   p array.flatten
 end
+
+def using_delete(array, string)
+  array.delete(string)
+end
+
+def using_delte_at(array, integer)
+  array.delete_at(integer)
+end
