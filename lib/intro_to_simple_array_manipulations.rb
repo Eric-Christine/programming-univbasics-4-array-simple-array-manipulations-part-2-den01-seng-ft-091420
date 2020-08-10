@@ -10,7 +10,7 @@ end
 
 def using_uniq(array)
   array.uniq
-  puts array.uniq
+  p array.uniq
 end
 
 def using_flatten(array)
